@@ -17,6 +17,10 @@ Cada serie tiene un conjunto de episodios. De cada episodio se requiere su nombr
 
 Las series son emitidas en diferentes plataformas. De la plataforma se requiere el nombre, el sitio web y el listado de planes y precios que ofrece.
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/miguelanruiz/MovieTheatre/master/UML.png" alt="Diagrama construido"/>
+</p>
+
 **Entregables**
 
 Habrá tres entregas del proyecto así:
